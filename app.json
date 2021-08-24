@@ -20,6 +20,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package":"Abdallah225.my-app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
